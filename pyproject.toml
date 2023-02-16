@@ -3,6 +3,7 @@ name = "bismillah_on_py"
 version = "1.0.0"
 description = "as `the_sentence`, and `print_them` function."
 authors = ["Iqbal Syifa Mahmuda <bal.mahmuda@gmail.com>", "اللّٰه"]
+license = "MIT"
 packages = [{include = "bismillah_on_py", from = "src"}]
 
 [tool.poetry.dependencies]
